@@ -25,3 +25,6 @@ classes/
 .idea
 .idea_modules
 /.worksheet/
+
+# mill
+out/
