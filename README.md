@@ -21,7 +21,7 @@ Any version number that starts with `0.` is automatically recognized as Dotty,
 you don't need to set up anything:
 
 ```scala
-def scalaVersion = "0.16.0-RC3"
+def scalaVersion = "0.17.0-RC1"
 ```
 
 #### Nightly builds
