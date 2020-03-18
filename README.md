@@ -64,10 +64,6 @@ by:
 ivy"a::b:c".withDottyCompat(scalaVersion())
 ```
 
-This will have no effect when compiling with Scala 2.x, but when compiling
-with Dotty this will change the cross-version to a Scala 2.x one. This
-works because Dotty is currently retro-compatible with Scala 2.x.
-
 ## Discuss
 
 Feel free to come chat with us on the
