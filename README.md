@@ -21,7 +21,7 @@ Any version number that starts with `3.` is automatically recognized as Scala 3;
 you don't need to set up anything:
 
 ```scala
-def scalaVersion = "3.1.1"
+def scalaVersion = "3.1.2"
 ```
 
 #### Nightly builds
