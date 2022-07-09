@@ -1,7 +1,5 @@
 import mill._, scalalib._
 
-object root extends SbtModule {
-  def millSourcePath = ammonite.ops.pwd
+object examples extends ScalaModule {
   def scalaVersion = "3.1.3"
-  def publishVersion = "0.1.0"
 }
