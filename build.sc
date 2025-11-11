@@ -1,5 +1,5 @@
 import mill._, scalalib._
 
 object examples extends ScalaModule {
-  def scalaVersion = "3.7.3"
+  def scalaVersion = "3.7.4"
 }
