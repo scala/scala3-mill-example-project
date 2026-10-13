@@ -16,7 +16,7 @@ IntelliJ](https://blog.jetbrains.com/scala/).
 ### build.sc
 
 ```scala
-def scalaVersion = "3.9.0"
+def scalaVersion = "3.10.0"
 ```
 
 ### Getting your project to compile with Scala 3
